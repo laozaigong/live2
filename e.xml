@@ -54594,6 +54594,9 @@
 	<programme channel="纯享4K" start="20240929212200 +0800" stop="20240929215200 +0800">
 		<title lang="zh">村庄故事4K 山水岩龙（上）</title>
 	</programme>
+	<programme channel="纯享4K" start="20240929215200 +0800" stop="20240929222200 +0800">
+		<title lang="zh">村庄故事4K 山水岩龙（下）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -62460,6 +62463,9 @@
 	<programme channel="黑莓动画" start="20240929214500 +0800" stop="20240929215800 +0800">
 		<title lang="zh">30_踢踢和奇奇之魔力课堂 第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240929215800 +0800" stop="20240929221200 +0800">
+		<title lang="zh">31_踢踢和奇奇之魔力课堂 第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -62498,6 +62504,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20240929202500 +0800" stop="20240929215800 +0800">
 		<title lang="zh">蓝调海之恋</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240929215800 +0800" stop="20240929000200 +0800">
+		<title lang="zh">迫降航班</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -63471,6 +63480,9 @@
 	<programme channel="newtv家庭剧场" start="20240929211600 +0800" stop="20240929215700 +0800">
 		<title lang="zh">16_我和我的三个姐姐</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240929215700 +0800" stop="20240929224900 +0800">
+		<title lang="zh">17_我和我的三个姐姐</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -63969,6 +63981,9 @@
 	<programme channel="newtv军事评论" start="20240929212900 +0800" stop="20240929215000 +0800">
 		<title lang="zh">美军直升机坠落事故</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240929215000 +0800" stop="20240929221200 +0800">
+		<title lang="zh">乌军反攻遭遇“钢铁之墙”</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -64067,6 +64082,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240929211300 +0800" stop="20240929215600 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240929215600 +0800" stop="20240929220500 +0800">
+		<title lang="zh">女儿情-李萍</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -64418,6 +64436,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240929210700 +0800" stop="20240929214800 +0800">
 		<title lang="zh">04_飞狐外传</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240929214800 +0800" stop="20240929222700 +0800">
+		<title lang="zh">05_飞狐外传</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
